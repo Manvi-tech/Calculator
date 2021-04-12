@@ -2,18 +2,19 @@
 *{
     margin:0;
     padding:0;
- 
+    background-color: #150227;
  }
  
  h2{
      text-align: center;
      margin-top:5%;
-     color:darkblue;
+     color:white;
      font-style: normal;
      font-family: sans-serif;
+     letter-spacing: 1px;
  }
  h2 i{
-     color:darkslategrey;
+     color:white;
  }
  
  #container{
@@ -37,6 +38,7 @@
      top:50%;
      float:right;
      margin-right:20px;
+     background-color:lightgrey ;
  }
  
  .row{
@@ -52,13 +54,11 @@
      text-align: center;
      font-size: 1.5rem;
      font-weight:700;
-     background-color:hotpink;
-     /*margin:2px;*/
-     box-shadow: -2px 2px 20px rgba(0,0,0,0.3);
+     background-color:#fff389;
+     box-shadow: -3px -3px 7px #ffffff73, 3px 3px 5px rgba(94, 104, 121, .288);
  }
  
  .operator{
-     /*background-color: orange;*/
      font-color:darkslategray;
  }
  
